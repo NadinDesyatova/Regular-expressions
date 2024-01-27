@@ -24,11 +24,11 @@
 - `./application/list/filling_dict.py` - модуль с функцией, 
 которая заполняет словарь данными о контактах;
 
-- `./application/list/create_new_list.py` - модуль для создания нового списка;
+- `./application/list/create_new_list.py` - модуль для создания нового, полностью отформатированного списка;
 
-- `./application/read_wrire_file/read_csv.py` - модуль для чтения csv-файла с начальными данными;
+- `./application/read_wrire_files/read_csv.py` - модуль для чтения csv-файла с начальными данными;
 
-- `./application/read_wrire_file/write_csv.py` - модуль для записи отформатированного списка в новый файл.
+- `./application/read_wrire_files/write_csv.py` - модуль для записи отформатированного списка в новый файл.
 
 
 
